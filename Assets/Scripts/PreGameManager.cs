@@ -10,7 +10,7 @@ public class PreGameManager : MonoBehaviour
     {
         PlayerPrefs.SetInt("Pontos", 0);
         PlayerPrefs.SetInt("Round", 1);
-        SceneManager.LoadScene("MSTT");
+        SceneManager.LoadScene("Cadastro");
     }
 
     // Update is called once per frame

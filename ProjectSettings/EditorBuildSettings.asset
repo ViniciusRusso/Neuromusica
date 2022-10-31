@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MSTT.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 73c59fd1c8ead9246bf9347def02f919
+  - enabled: 1
+    path: Assets/Scenes/PreGame.unity
+    guid: d991e105038554f43bc974d6323cf356
+  - enabled: 1
+    path: Assets/Scenes/Cadastro.unity
+    guid: cdd6e56a4a729ae4d9542bd0cfe0da0f
   m_configObjects: {}
